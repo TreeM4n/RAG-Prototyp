@@ -1,0 +1,17 @@
+Question:
+from the provided sources. did you find anything vom jörn plönning?
+
+Answer:
+ Yes, I found the following information about Joern Ploennigs:
+
+* He is a German researcher.
+* He has been involved in various research projects.
+* His work focuses on building and construction.
+
+I did not find any specific information about his involvement in the question you asked.
+
+Sources + relevance:
+- Civil Engineering Design - 2024 - Ploennigs - Automating computational design with generative AI.pdf | score: 0.7165
+- 1-s2.0-S1474034625008535-main.pdf | score: 0.7346
+- Civil Engineering Design - 2024 - Ploennigs - Automating computational design with generative AI.pdf | score: 0.7400
+- Multidimensional_building_performance_da.pdf | score: 0.7483
